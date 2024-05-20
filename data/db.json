@@ -1,0 +1,29 @@
+{
+  "decks": [
+    {
+      "name": "Deck1",
+      "description": "new Deck",
+      "id": 1
+    }
+  ],
+  "cards": [
+    {
+      "front": "Deck1 Front",
+      "back": "Deck1 Back",
+      "deckId": 1,
+      "id": 1
+    },
+    {
+      "front": "Deck1 Card1",
+      "back": "Deck1 Card1 Back",
+      "deckId": 1,
+      "id": 2
+    },
+    {
+      "front": "Deck1 card2",
+      "back": "Deck1 card2 back",
+      "deckId": 1,
+      "id": 3
+    }
+  ]
+}
